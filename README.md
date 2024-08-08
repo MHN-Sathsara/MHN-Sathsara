@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishan Sathsara</h1>
 <h3 align="center">Full-Stack Developer with a Passion for Frontend and UI/UX Design</h3>
 
-- 🔭 I’m currently working on [Workout-scheduling-app](https://github.com/MHN-Sathsara/Workout-scheduling-app.git)
+- 🔭 I’m currently working on [Todo-App with REST API CURD](https://github.com/MHN-Sathsara/Todo-App-using-Rest-API-CRUD-App-Flutter.git)
 
 - 🌱 I’m currently learning **MERN-Stack, Springboot**
 
