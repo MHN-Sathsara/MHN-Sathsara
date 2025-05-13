@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👨‍💻 Nishan Sathsara
+# 👨‍💻 Sathsara Hewage
 
 [![Email Badge](https://img.shields.io/badge/-sathsarahewage%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sathsarahewage@gmail.com)](mailto:sathsarahewage@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-mr.devil0712-4267B2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/mr.devil0712)
