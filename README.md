@@ -1,98 +1,95 @@
-<div align="center">
-  
-# 👨‍💻 Sathsara Hewage
-
-[![Email Badge](https://img.shields.io/badge/-sathsarahewage%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sathsarahewage@gmail.com)](mailto:sathsarahewage@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-mr.devil0712-4267B2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/mr.devil0712)
-[![Instagram Badge](https://img.shields.io/badge/-dev7l__x-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/dev7l__x)
-
-### Full-Stack Developer with a Passion for Frontend and UI/UX Design
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=435&lines=Crafting+digital+experiences;Flutter+enthusiast;MERN+stack+developer;UI%2FUX+designer;Always+learning" alt="Typing SVG" />
-
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-## 🚀 About Me
+###
 
-```javascript
-const nishan = {
-  nickname: "Dev7L",
-  currentFocus: "Todo-App with REST API CRUD",
-  learning: ["MERN Stack", "Spring Boot"],
-  passions: ["Frontend Development", "UI/UX Design", "Mobile App Development"],
-  technologies: {
-    mobile: ["Flutter", "Dart", "React Native", "Android"],
-    frontend: ["HTML", "CSS", "JavaScript", "React", "Bootstrap"],
-    backend: ["Node.js", "Express", "Spring Boot"],
-    database: ["MongoDB", "MySQL", "MariaDB"],
-    design: ["Figma", "Photoshop", "Illustrator"]
-  }
-};
-```
+<h2 align="center">Hi 👋! My name is Sathsara Hewage and I'm a Software Engineer, from Sri Lanka</h2>
 
-## 🔭 What I'm Working On
+###
 
-I'm currently developing a [Todo-App with REST API CRUD](https://github.com/MHN-Sathsara/Todo-App-using-Rest-API-CRUD-App-Flutter) using Flutter. This project demonstrates my ability to create interactive mobile applications with clean UI and efficient backend integration.
+<p align="center">Software Engineering graduate and mobile application developer focused on building clean, user-friendly digital products. I specialize in Flutter, React Native, and UI/UX design, with a growing focus on AI-powered applications.<br><br>I enjoy turning ideas into real-world products—designing intuitive interfaces, writing maintainable code, and shipping fast. My background in software engineering helps me bridge design and development to create apps that are practical, scalable, and easy to use.</p>
 
-## 🌱 Currently Learning
-
-- **MERN Stack** - Deepening my knowledge of MongoDB, Express, React, and Node.js
-- **Spring Boot** - Exploring Java-based backend development
-
-## 🛠️ Tech Stack
+###
 
 <div align="center">
-
-### Frontend & Mobile
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### Tools & Design
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
 </div>
 
-## 📈 GitHub Stats
+###
+
+<h4 align="left">🔧 Tech Stack</h4>
+
+###
+
+<p align="left">Mobile: Flutter, React Native<br><br>Frontend: React, JavaScript, HTML, CSS<br><br>Backend & Services: Supabase, Firebase<br><br>Design: Figma, Photoshop<br><br>Tools: Git, GitHub, REST APIs</p>
+
+###
+
+<h4 align="left">🚀 Current Focus</h4>
+
+###
+
+<p align="left">AI-assisted mobile applications<br><br>UI/UX-centered product development<br><br>Freelance and portfolio projects</p>
+
+###
+
+<h4 align="left">🤝 Open To</h4>
+
+###
+
+<p align="left">Freelance & contract opportunities<br><br>Mobile app development roles<br><br>UI/UX-focused collaborations</p>
+
+###
+
+<h4 align="center">📫 Reach me</h4>
+
+###
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhn-sathsara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhn-sathsara&layout=compact&langs_count=7&theme=tokyonight" />
+  <a href="sathsarahewage@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/nishan-sathsara/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/mr.devil0712" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhn-sathsara&theme=tokyonight" alt="mhn-sathsara" />
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MHN-Sathsara/MHN-Sathsara/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MHN-Sathsara/MHN-Sathsara/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MHN-Sathsara/MHN-Sathsara/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mhn-sathsara&theme=discord&row=1&column=6" alt="mhn-sathsara" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mhn-sathsara&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
-  
-  ### "Code is like humor. When you have to explain it, it's bad." – Cory House
-</div>
+###
