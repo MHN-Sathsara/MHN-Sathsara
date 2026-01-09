@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">Software Engineering graduate and mobile application developer focused on building clean, user-friendly digital products. I specialize in Flutter, React Native, and UI/UX design, with a growing focus on AI-powered applications.<br><br>I enjoy turning ideas into real-world products—designing intuitive interfaces, writing maintainable code, and shipping fast. My background in software engineering helps me bridge design and development to create apps that are practical, scalable, and easy to use.</p>
+<p align="center">Software Engineering graduate and mobile application developer focused on building clean, user-friendly digital products. I specialize in Flutter, React Native, and UI/UX design, with a growing focus on AI-powered applications.<br><br>I enjoy turning ideas into real-world products designing intuitive interfaces, writing maintainable code, and shipping fast. My background in software engineering helps me bridge design and development to create apps that are practical, scalable, and easy to use.</p>
 
 ###
 
