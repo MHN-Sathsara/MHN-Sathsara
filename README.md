@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Hi 👋! My name is Sathsara Hewage and I'm a Software Engineer, from Sri Lanka</h2>
+<h2 align="center">Hi 👋! My name is Nishan Sathsara and I'm a Software Engineer, from Sri Lanka</h2>
 
 ###
 
